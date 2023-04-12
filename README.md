@@ -7,4 +7,4 @@
     <br><i>Fig. Example visualizations of T1 weighted brain MRI.</i><br>  
 </p>
 
-<p><a href="https://raw.githubusercontent.com/AgamChopra/TorchVis3D/main/LICENSE" target="blank">[The MIT License]</a></p>
+<p><a href="https://raw.githubusercontent.com/AgamChopra/TorchVis3D/main/LICENSE.md" target="blank">[The MIT License]</a></p>
